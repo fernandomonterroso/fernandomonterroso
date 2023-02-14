@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    Hi there, I'm Marvin Daniel Rodriguez 
+    Hi there, I'm Fernando Monterroso 
     <img
         src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47pwwn3pakgmgzin7yq39m92as9xdv8dtsomk0wjjd&rid=giphy.gif&ct=g"
         width="80px"
@@ -14,8 +14,8 @@
 - 🌱 I’m currently learning about web and mobile development.
 
 - 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/marvin-daniel-rodriguez-081046225)
-  - [Instagram](https://www.instagram.com/rodriguez907/)
+  - [LinkedIn](https://www.linkedin.com/in/fernando-monterroso-717866169/)
+
 
 <h3>
    ⚙️ Languages and Tools
