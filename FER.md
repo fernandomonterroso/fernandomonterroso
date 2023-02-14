@@ -9,9 +9,9 @@
     🧑‍💻 About me
 </h3>
 
-- 🎓 I'm a Systems Engineering student at the University of San Carlos de Guatemala.
+- 🎓 I'm a Systems Engineering student at the Mariano Gálvez University of Guatemala and a former student of Kinal.
 
-- 🌱 I’m currently learning about web and mobile development.
+- 🌱 I’m currently learning about web.
 
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/fernando-monterroso-717866169/)
